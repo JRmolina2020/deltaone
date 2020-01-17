@@ -1,0 +1,109 @@
+[{
+	"nota": "37951.00",
+	"pagos": [{
+		"fecha": "2020-01-17",
+		"valor": 0.0,
+		"metodo_pago": 1,
+		"detalle_pago": "ZZZ"
+	}],
+	"numero": 14526,
+	"cliente": {
+		"barrio": "mercado publico",
+		"ciudad": "44",
+		"codigo": "33834",
+		"correo": "",
+		"nombres": "BONETH JESUS",
+		"telefono": "5711589",
+		"apellidos": "BONETH JESUS",
+		"direccion": "CALLE 21 N 18C-34 MERCADO PUBLICO",
+		"documento": "0001",
+		"punto_venta": "MULTIBOLSAS DEL CESAR",
+		"departamento": "20",
+		"obligaciones": ["ZZ"],
+		"razon_social": "BONETH JESUS",
+		"tipo_persona": 1,
+		"tipo_regimen": "48",
+		"codigo_postal": "000000",
+		"nombre_comercial": "MULTIBOLSAS DEL CESAR",
+		"numero_mercantil": 0,
+		"es_responsable_iva": false,
+		"punto_venta_nombre": "MULTIBOLSAS DEL CESAR",
+		"tipo_identificacion": 13,
+		"informacion_tributaria": "ZZ"
+	},
+	"factura": {
+		"moneda": null,
+		"subtipo_factura": "10",
+		"intercambio_acordado": 0.0
+	},
+	"prefijo": "A",
+	"anticipos": null,
+	"productos": [{
+		"tipo": 1,
+		"marca": "",
+		"codigo": "221007",
+		"nombre": "DETERG. ECONOMICO DILO BULTO BLANCO",
+		"cantidad": 1,
+		"impuestos": [{
+			"tipo": "01",
+			"porcentaje": 16.00
+		}],
+		"descuentos": [{
+			"razon": "Descuento",
+			"valor": 0.0,
+			"codigo": "00",
+			"porcentaje": 0.0
+		}],
+		"tipo_gravado": 1,
+		"valor_referencial": 36212.92,
+		"valor_unitario_bruto": 36212.92,
+		"valor_unitario_sugerido": 0.0
+	}],
+	"valor_ico": 0.0,
+	"valor_iva": 5678.00,
+	"descuentos": [{
+		"razon": null,
+		"valor": 0.0,
+		"codigo": null,
+		"porcentaje": 0.0
+	}],
+	"valor_neto": 41167.00,
+	"extensibles": {
+		"peso": 0.0,
+		"zona": "0",
+		"orden": 0,
+		"asesor": "01",
+		"pedido": "14526",
+		"canastas": 0,
+		"planilla": "",
+		"logistica": "",
+		"recibo_caja": 0.0,
+		"distribucion": "",
+		"asesor_numero": 0,
+		"logistica_numero": 0,
+		"cantidad_productos": 1,
+		"distribucion_numero": 0
+	},
+	"nota_debito": {
+		"razon": 0,
+		"factura": null,
+		"id_felam": 0,
+		"tipo_documento": "",
+		"descripcion_razon": null
+	},
+	"valor_bruto": 35489.00,
+	"nota_credito": {
+		"razon": 0,
+		"factura": null,
+		"id_felam": 0,
+		"tipo_documento": "",
+		"descripcion_razon": null
+	},
+	"codigo_empresa": 80,
+	"tipo_documento": "02",
+	"fecha_documento": "2020-01-17",
+	"valor_descuento": 0.0,
+	"valor_retencion": 0.0,
+	"factura_afectada": 0,
+	"fecha_expiracion": "2020-01-17"
+}]
